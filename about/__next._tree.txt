@@ -6,4 +6,4 @@
 :HL["/greatmultitude-preview/_next/static/media/d6c1ff7e86974212-s.p.40sczeszzbjw1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"about","h":96,"c":"$Q2"}]]
-0:{"b":"2mlEfgknXWjKWeNTrvkSB","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"fR3d3yWFQq8sW7LxQNm6a","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
