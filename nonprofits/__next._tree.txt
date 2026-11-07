@@ -1,4 +1,4 @@
-:HL["/greatmultitude-preview/_next/static/chunks/41ozflhq3eqcl.css","style"]
+:HL["/greatmultitude-preview/_next/static/chunks/0_2j0m2461-e_.css","style"]
 :HL["/greatmultitude-preview/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/greatmultitude-preview/_next/static/media/75cb990346c55dc4-s.p.40bho2kviej2o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/greatmultitude-preview/_next/static/media/916cd8a3bde3edf8-s.p.0oace-s_gkfks.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -6,4 +6,4 @@
 :HL["/greatmultitude-preview/_next/static/media/d6c1ff7e86974212-s.p.40sczeszzbjw1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"nonprofits","h":96,"c":"$Q2"}]]
-0:{"b":"fR3d3yWFQq8sW7LxQNm6a","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"E0EMdh5QSHX4SJL8K2_mC","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
